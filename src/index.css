@@ -5,9 +5,17 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+
+  /* background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLFWUBrFV4_J2lu6VeFLZk6JEjkcgdGICp-LpMnfl8lUOxjTrap3uPWNbyrdddgEXot3w&usqp=CAU');
+  background-size: cover; */
+  /* background-color: rgba(255, 255, 255, 0.5); */
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.active{
+  color:blue;
 }
